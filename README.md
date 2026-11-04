@@ -8,11 +8,11 @@ Busco transformar dados em insights estratégicos para a tomada de decisão. Ten
 
 ### 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Python | SQL | R
-- **Frameworks:** Pandas | NumPy | Matplotlib | Beautiful Soup
+- **Linguagens:** Python | SQL 
+- **Frameworks:** Pandas | NumPy 
 - **Análise & Visualização de Dados:** Excel | Power BI
-- **Ferramentas & Ambientes:** Git e GitHub | Ollama (Ambientes de IA Local) | MySQL | PostgreSQL | SQLiteStudio
-- **Plataformas:** Visual Studio Code | PyCharm | Jupyter Notebook | Google Coolab
+- **Ferramentas & SGBD's:** Git e GitHub | MySQL | SQLiteStudio
+- **Plataformas:** Visual Studio Code | PyCharm 
 
 ---
 
